@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://media.ma.cuisinella/-/media/bynder/cuisinella/2021/10/28/15/16/cla_magasin_villennes-sur-seine-300965/large-cla_magasin_villennes-sur-seine-300965.ashx?as=1&w=1280&rev=0d3ebdfcb5f948e2b9929a32440c0ef4&hash=9F6B7B784F9F867F9C93C8BEAA451556) !important;
+    background-size: cover !important;
+}
+.bg-red{
+    background: rgb(222, 0, 0);
+  }
+  .login{
+    color: #fff !important;
+    width: 30% !important;
+    height: 70% !important;
+    border-radius: 20px;
+    padding: 4rem;
+    background-color: rgb(222, 0, 0);
+  }
+  .h1-connect{
+    font-size: 50px !important;
+    font-weight: 300;
+    margin-bottom: 80px !important
+  }
